@@ -1,5 +1,4 @@
-# face-detection-challenging-tasks
-Comparison of different methods of face detection for difficult situations (Occlusion, scale, illumination etc.)
+# Comparison of different methods of face detection for difficult situations (Occlusion, scale, illumination etc.)
 
 Dataset: 
 [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) divided on categories 
